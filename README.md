@@ -1,2 +1,2 @@
-# project_game
-ฝึกการเขียน python ให้สร้างเกมส์โดบใช้ Pygame ดูรายละเอียดผ่าน PDF
+# project_TheWarrior
+ฝึกการเขียน python ให้สร้างเกมส์โดยใช้ Pygame ดูรายละเอียดผ่าน PDF
